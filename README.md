@@ -1,4 +1,3 @@
-# cryptography
 Crypto (short for cryptocurrency) refers to a type of digital or virtual currency that uses cryptography for security.
 Unlike traditional currencies, cryptocurrencies are decentralized, meaning they are not controlled by any central authority, such as a government or financial institution.
 Instead, they rely on blockchain technology, a distributed ledger that records all transactions across a network of computers.
